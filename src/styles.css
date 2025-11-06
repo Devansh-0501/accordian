@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.accordian {
+  border: solid 2px;
+}
+.accordianItem {
+  margin: 5px;
+  border: solid 1px;
+}
+.title {
+  cursor: pointer;
+  background: grey;
+}
+.body {
+  background: light grey;
+}
